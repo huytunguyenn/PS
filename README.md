@@ -1,2 +1,2 @@
 #  PS
-Probability & Statistics - MTH00040PS
+Probability & Statistics - MTH00040
